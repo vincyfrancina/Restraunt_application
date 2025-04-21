@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45841045991",
+    "project_id": "restrauntapp-4749e",
+    "storage_bucket": "restrauntapp-4749e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45841045991:android:d5f92f17432d7d5ef60542",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJoOtLgXpDxbqwlrmjFLY26GK88hnWBrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
